@@ -55,7 +55,7 @@ describe("Authenticator:", function () {
       // By this stage we should be logged in. Cypress has many different
       // assertions. Here we're just checking to see if the page contains
       // the sign-out button.
-      cy.get("amplify-sign-out")
+      cy.get("amplify-sign-out",{ timeout: 500 })
         .find(selectors.signOutButton, { includeShadowDom: true })
         .contains("Sign Out");
     });
