@@ -1,0 +1,6 @@
+{
+  "projectId": "ds5myy",
+  "baseUrl": "http://localhost:3000",
+   "integrationFolder": "cypress/e2e"
+
+}
