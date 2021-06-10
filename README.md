@@ -1,4 +1,4 @@
-# An Amplify Application with Cypress testing End to End Testing
+# An Amplify Application with Cypress End to End Testing
 
 [![amplifybutton](https://oneclick.amplifyapp.com/button.svg)](https://console.aws.amazon.com/amplify/home#/deploy?repo=https://github.com/bgarreth/amplifye2e)
 
